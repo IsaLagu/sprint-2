@@ -1,1 +1,1 @@
-#S2.1. Exercicis bàsics JavaScript
+# S2.1. Exercicis bàsics JavaScript
